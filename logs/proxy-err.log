@@ -1,0 +1,316 @@
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+Error: Cannot find module './config.js'
+Require stack:
+- C:\Users\20663\Desktop\Proxy_server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Object.<anonymous> (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'C:\\Users\\20663\\Desktop\\Proxy_server\\index.js' ]
+}
+C:\Users\20663\Desktop\Proxy_server\settings\config.js:8
+      pathRewrite: {
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1072:16)
+    at Module._compile (internal/modules/cjs/loader.js:1122:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+C:\Users\20663\Desktop\Proxy_server\settings\config.js:8
+      pathRewrite: {
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1072:16)
+    at Module._compile (internal/modules/cjs/loader.js:1122:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+C:\Users\20663\Desktop\Proxy_server\settings\config.js:8
+      pathRewrite: {
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1072:16)
+    at Module._compile (internal/modules/cjs/loader.js:1122:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+C:\Users\20663\Desktop\Proxy_server\settings\config.js:8
+      pathRewrite: {
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at wrapSafe (internal/modules/cjs/loader.js:1072:16)
+    at Module._compile (internal/modules/cjs/loader.js:1122:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at Module.Hook._require.Module.require (C:\Users\20663\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\20663\Desktop\Proxy_server\index.js:13:16)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
