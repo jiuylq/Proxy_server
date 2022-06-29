@@ -83,6 +83,24 @@ http.createServer(function(req, res) {
     
 // }).listen(8096);
 
+// 设置跨域访问
+app.all("*", function (req, res, next) {
+  //设置允许跨域的域名，*代表允许任意域名跨域
+  res.header("Access-Control-Allow-Origin", "*");
+  //允许的header类型
+  res.header("Access-Control-Allow-Headers", "*"); // "Origin, X-Requested-With, Content-Type, Accept"
+  //跨域允许的请求方式
+  res.header("Access-Control-Allow-Methods", "DELETE,PUT,POST,GET,OPTIONS");
+  //修改程序信息与版本
+  // res.header('X-Powered-By', ' 3.2.1');
+  //内容类型
+  // res.header('Content-Type', 'application/json;charset=utf-8');
+
+  if (req.method.toLowerCase() == "options") res.send(200);
+  //让options尝试请求快速结束
+  else next();
+});
+
 app.use(proxyBase, async function(req, res, next) {
   let uid = uuidv4();
   dataLog[uid] = ''
@@ -121,7 +139,7 @@ app.use(proxyBase, async function(req, res, next) {
   });
   req.on('end', () => {
     try{
-      dataLog[uid] += 'params: ' + JSON.stringify(utils.paramsToJSON(params.toString())) + "\n"
+      dataLog[uid] += 'params: ' + params.toString() + "\n"
     }catch(e){
       //TODO handle the exception
     }
